@@ -1,6 +1,6 @@
 # MPK - Gestão de Estacionamentos (Template)
 
-Este é um **modelo base (Template)** do aplicativo de gestão financeira desenvolvido para a rede de estacionamentos Multipark.
+Este é um **modelo base (Template)** do aplicativo de gestão financeira desenvolvido para a rede de estacionamentos.
 O código original contém regras de negócio proprietárias e dados sensíveis que foram removidos desta versão.
 
 Esta versão serve como demonstração de:
