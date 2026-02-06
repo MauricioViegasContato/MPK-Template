@@ -1,0 +1,52 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/app_links/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/flutter_local_notifications/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/flutter_plugin_android_lifecycle/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/image_picker_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/open_file_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/path_provider_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/printing/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/shared_preferences_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/url_launcher_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/video_player_android/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+
+# Arquivos de configuração sensíveis
+.env
+.env.local
+.env.production
+.env.development
+config/secrets.dart
+lib/config/secrets.dart
+lib/secrets.dart
+
+# Arquivos de configuração do Android
+android/app/google-services.json
+android/app/release/
+android/local.properties
+
+# Arquivos de configuração do iOS
+ios/Runner/GoogleService-Info.plist
+ios/Pods/
+
+# Arquivos de configuração do Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
